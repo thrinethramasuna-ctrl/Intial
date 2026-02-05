@@ -1,0 +1,1 @@
+print("Manas is smart guy" )
